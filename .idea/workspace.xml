@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67e91fd8-4418-4d36-9986-153a6fe4e01e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/OOP_SEM_05_CW/gb-notebook/src/notebook/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_SEM_05_CW/gb-notebook/src/notebook/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_SEM_05_CW/gb-notebook/src/notebook/repository/GBRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_SEM_05_CW/gb-notebook/src/notebook/repository/GBRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_SEM_05_CW/gb-notebook/src/notebook/repository/impl/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_SEM_05_CW/gb-notebook/src/notebook/repository/impl/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_SEM_05_CW/gb-notebook/src/notebook/view/UserView.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_SEM_05_CW/gb-notebook/src/notebook/view/UserView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP_SEM_05_HW/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OOP_SEM_05_HW/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OOP_SEM_05_CW/gb-notebook" />
+  </component>
+  <component name="ProjectId" id="2SmuW2rzCfVJ2pmLykfLWUJ4mL5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "P:/Projects/Java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e91fd8-4418-4d36-9986-153a6fe4e01e" name="Changes" comment="" />
+      <created>1689764105555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689764105555</updated>
+    </task>
+    <servers />
+  </component>
+</project>
